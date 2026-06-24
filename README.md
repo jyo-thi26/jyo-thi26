@@ -23,8 +23,6 @@
 
 - ⚡ Fun fact **G**
 
-- 📫 How to reach me **jyothibinu4@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jyotibinu" target="blank">
