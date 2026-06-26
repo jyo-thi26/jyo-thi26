@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jyoti Binu</h1>
-<h3 align="center">💻 3rd Year CSE Student | 📊 Aspiring Data Analyst | 🇮🇳 India</h3>
+<h3 align="center">💻 3rd Year CSE Student | 📊 Aspiring Data Analyst </h3>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=jyo-thi26&label=Profile%20Views&color=0e75b6&style=flat" alt="jyo-thi26" />
