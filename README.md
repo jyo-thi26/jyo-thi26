@@ -1,162 +1,215 @@
 <h1 align="center">Hi 👋, I'm Jyoti Binu</h1>
-<h3 align="center">💻 3rd Year CSE Student | 📊 Aspiring Data Analyst </h3>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=jyo-thi26&label=Profile%20Views&color=0e75b6&style=flat" alt="jyo-thi26" />
+<h3 align="center">
+💻 3rd Year Computer Science Engineering Student <br>
+📊 Aspiring Data Analyst | Python Developer | AI & ML Enthusiast
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Python+Developer;Machine+Learning+Enthusiast;Power+BI+%7C+SQL+%7C+Excel;Always+Learning+New+Things🚀" />
 </p>
 
-<p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jyo-thi26&theme=onedark&margin-w=15&margin-h=15&no-frame=true" alt="jyo-thi26" />
-  </a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=jyo-thi26&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<a href="https://github.com/jyo-thi26?tab=followers">
+<img src="https://img.shields.io/github/followers/jyo-thi26?label=Followers&style=for-the-badge"/>
+</a>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=jyo-thi26&theme=onedark&margin-w=15&margin-h=15&no-frame=true"/>
 </p>
 
 ---
 
-- 🔭 I’m currently working on **Gym Posture Detection System**
+## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Python, SQL, Excel, Power BI, Machine Learning & Data Analytics**
+- 🔭 Currently working on **AI Gym Posture Detection System**
 
-- 👯 I’m looking to collaborate on **Data Analytics, AI/ML and Open Source Projects**
+- 🌱 Learning **Python, SQL, Excel, Power BI, Tableau, Machine Learning & Data Analytics**
 
-- 🤝 I’m looking for help with **Deep Learning & Computer Vision**
+- 👯 Looking to collaborate on **Data Analytics, AI/ML & Open Source Projects**
 
-- 👨‍💻 All of my projects are available at **https://github.com/jyo-thi26?tab=repositories**
+- 🤝 Looking for help with **Deep Learning, Computer Vision & Data Engineering**
 
-- 💬 Ask me about **Python, SQL, Power BI, Pandas, Machine Learning & Data Analysis**
+- 👨‍💻 My Projects:
+  **https://github.com/jyo-thi26?tab=repositories**
 
-- 📫 Reach me at **jyothibinu4@gmail.com**
+- 💬 Ask me about:
+  **Python • SQL • Pandas • Power BI • Excel • Machine Learning**
 
-- ⚡ Fun fact **I enjoy turning raw data into meaningful insights 📊**
+- 📫 Email:
+  **jyothibinu4@gmail.com**
 
----
-
-<h3 align="left">🚀 Featured Projects</h3>
-
-- 🏋️ AI Gym Posture Detection
-- 📊 Sales Analytics Dashboard
-- 🍱 Food Calorie Detection System
-- 🔍 Smart QR & Malicious URL Detection
-- 📊 Customer Churn Prediction
+- ⚡ Fun Fact:
+  **I enjoy transforming raw data into meaningful business insights.**
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🏋️ AI Gym Posture Detection | AI-powered posture correction using Computer Vision |
+| 📊 Sales Analytics Dashboard | Interactive Dashboard using Power BI & Python |
+| 📈 Customer Churn Prediction | Machine Learning model for business analytics |
+| 🍱 Food Calorie Detection | Smart food calorie prediction system |
+| 🔍 Smart QR & Malicious URL Detection | Cybersecurity & AI based detection |
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/jyotibinu" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<a href="https://www.linkedin.com/in/jyotibinu">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
 
-<a href="https://stackoverflow.com/users/32871187/jyoti-binu" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
+<a href="https://www.kaggle.com/jyotibinu">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="48"/>
 </a>
 
-<a href="https://www.kaggle.com/jyotibinu" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+<a href="https://stackoverflow.com/users/32871187/jyoti-binu">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="48"/>
 </a>
 
-<a href="https://www.instagram.com/joe_thi26/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
-
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-
-<a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.java.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://numpy.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://matplotlib.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.tensorflow.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://powerbi.microsoft.com/" target="_blank">
-<img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40"/>
-</a>
-
-<a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<a href="https://www.instagram.com/joe_thi26/">
+<img src="https://skillicons.dev/icons?i=instagram" width="48"/>
 </a>
 
 </p>
 
 ---
 
-<h3 align="center">📊 GitHub Statistics</h3>
+# 💻 Languages & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,mysql,git,github,vscode"/>
+
+</p>
+
+<p>
+
+<img src="https://img.icons8.com/color/48/power-bi.png"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48"/>
+
+</p>
+
+# 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jyo-thi26&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyo-thi26&layout=compact&theme=tokyonight" height="170"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jyo-thi26&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyo-thi26&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-<h3 align="center">🔥 GitHub Streak</h3>
+# 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=jyo-thi26&theme=tokyonight" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jyo-thi26&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-<h3 align="center">📈 Contribution Graph</h3>
+# 🏆 GitHub Profile Summary
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jyo-thi26&theme=tokyo-night" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jyo-thi26&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jyo-thi26&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jyo-thi26&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jyo-thi26&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jyo-thi26&theme=tokyonight"/>
+
 </p>
 
 ---
 
-<h3 align="center">💡 Quote</h3>
+# 🐍 Contribution Snake (Optional)
+
+> **This animation requires a GitHub Action.**
+> It won't work until you add the workflow.
 
 <p align="center">
-<i>"Without data, you're just another person with an opinion."</i><br>
-<b>— W. Edwards Deming</b>
+
+<img src="https://raw.githubusercontent.com/jyo-thi26/jyo-thi26/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🎓 Certifications
+
+- 📜 Tata Group – Data Visualization: Empowering Business with Effective Insights
+- 📜 NPTEL Certification
+- 📜 Python for Data Analysis
+- 📜 Power BI & Excel Projects
+
+---
+
+# 🎯 Current Goals
+
+- ✅ Master SQL
+- ✅ Build 20+ Data Analytics Projects
+- ✅ Learn Advanced Power BI
+- ✅ Learn Tableau
+- ✅ Master Machine Learning
+- ✅ Contribute to Open Source
+- ✅ Secure a Data Analyst Internship
+
+---
+
+# 💡 Favorite Quote
+
+<p align="center">
+
+> **"Without data, you're just another person with an opinion."**
+
+### — W. Edwards Deming
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</h3>
+
+<h4 align="center">
+
+If you like my work, don't forget to ⭐ my repositories.
+
+</h4>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=120&section=footer"/>
+
 </p>
