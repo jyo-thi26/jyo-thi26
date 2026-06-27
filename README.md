@@ -5,22 +5,9 @@
 📊 Aspiring Data Analyst | Python Developer | AI & ML Enthusiast
 </h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Python+Developer;Machine+Learning+Enthusiast;Power+BI+%7C+SQL+%7C+Excel;Always+Learning+New+Things🚀" />
-</p>
-
-<p align="center">
+<p>
 <img src="https://komarev.com/ghpvc/?username=jyo-thi26&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-<a href="https://github.com/jyo-thi26?tab=followers">
-<img src="https://img.shields.io/github/followers/jyo-thi26?label=Followers&style=for-the-badge"/>
-</a>
 </p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jyo-thi26&theme=onedark&margin-w=15&margin-h=15&no-frame=true"/>
-</p>
-
----
 
 ## 👨‍💻 About Me
 
@@ -87,11 +74,6 @@
 <p>
 
 <img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,mysql,git,github,vscode"/>
-
-</p>
-
-<p>
-
 <img src="https://img.icons8.com/color/48/power-bi.png"/>
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48"/>
@@ -101,67 +83,6 @@
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48"/>
 
 </p>
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=jyo-thi26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyo-thi26&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-
-</p>
-
-# 📈 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jyo-thi26&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Profile Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jyo-thi26&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jyo-thi26&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jyo-thi26&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jyo-thi26&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jyo-thi26&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake (Optional)
-
-> **This animation requires a GitHub Action.**
-> It won't work until you add the workflow.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/jyo-thi26/jyo-thi26/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
 
 # 🎓 Certifications
 
