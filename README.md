@@ -38,7 +38,6 @@
 | Project | Description |
 |---------|-------------|
 | 🏋️ AI Gym Posture Detection | AI-powered posture correction using Computer Vision |
-| 📊 Sales Analytics Dashboard | Interactive Dashboard using Power BI & Python |
 | 📈 Customer Churn Prediction | Machine Learning model for business analytics |
 | 🍱 Food Calorie Detection | Smart food calorie prediction system |
 | 🔍 Smart QR & Malicious URL Detection | Cybersecurity & AI based detection |
