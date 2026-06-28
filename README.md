@@ -66,7 +66,7 @@
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="48"/>
 </a>
 
-<a href="https://www.instagram.com/joe_thi26/">
+<a href="https://www.instagram.com/fluff_chaser/">
 <img src="https://skillicons.dev/icons?i=instagram" width="48"/>
 </a>
 
