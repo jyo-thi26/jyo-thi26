@@ -9,6 +9,12 @@
 <img src="https://komarev.com/ghpvc/?username=jyo-thi26&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy-ruby.vercel.app/?username=jyo-thi26&theme=tokyonight&no-frame=false&column=6&margin-w=15" />
+</p>
+
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on **AI Gym Posture Detection System**
