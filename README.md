@@ -89,6 +89,8 @@
 
 </p>
 
+---
+
 # 🏆 Certifications
 
 - 📜 Deloitte Australia – Data Analytics Job Simulation (Forage, 2026)
