@@ -12,7 +12,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy-ruby.vercel.app/?username=jyo-thi26&theme=tokyonight&no-frame=false&column=6&margin-w=15" />
+<img src="https://github-profile-trophy-ruby.vercel.app/?username=jyo-thi26&theme=tokyonight&no-frame=false&column=6&margin-w=15&v=2"/>
 </p>
 
 ## 👨‍💻 About Me
