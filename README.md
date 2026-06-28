@@ -91,10 +91,10 @@
 
 ## 🏆 Certifications
 
--📜 Deloitte Australia – Data Analytics Job Simulation (Forage, 2026)
--📜 NPTEL Elite – Data Mining for Decision Making (IIT Mandi, 2026)
--📜 Tata Group – Data Visualization: Empowering Business with Effective Insights (Forage, 2025)
--📜 PhonePe Data Analysis using Power BI (WsCube Tech)
+- 📜 Deloitte Australia – Data Analytics Job Simulation (Forage, 2026)
+- 📜 NPTEL Elite – Data Mining for Decision Making (IIT Mandi, 2026)
+- 📜 Tata Group – Data Visualization: Empowering Business with Effective Insights (Forage, 2025)
+- 📜 PhonePe Data Analysis using Power BI (WsCube Tech)
 
 ---
 
