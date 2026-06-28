@@ -111,16 +111,22 @@
 <tr>
 
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouravspopale&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyo-thi26&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 </td>
 
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=gouravspopale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jyo-thi26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 </td>
 
 </tr>
 </table>
----
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=jyo-thi26&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 # 💡 Favorite Quote
 
 <p align="center">
