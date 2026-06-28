@@ -89,7 +89,7 @@
 
 </p>
 
-## 🏆 Certifications
+# 🏆 Certifications
 
 - 📜 Deloitte Australia – Data Analytics Job Simulation (Forage, 2026)
 - 📜 NPTEL Elite – Data Mining for Decision Making (IIT Mandi, 2026)
