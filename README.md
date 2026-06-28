@@ -103,7 +103,24 @@
 - ✅ Secure a Data Analyst Internship
 
 ---
+<h2 align="center">📊 GitHub Analytics</h2>
 
+<div align="center">
+
+<table>
+<tr>
+
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouravspopale&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+</td>
+
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=gouravspopale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+</td>
+
+</tr>
+</table>
+---
 # 💡 Favorite Quote
 
 <p align="center">
